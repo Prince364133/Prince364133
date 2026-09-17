@@ -1,12 +1,12 @@
-# 👋 Hey, I'm Prince
+#  Hey, I'm Prince
 
-🚀 Startup Founder | 💻 Full-Stack Developer | 🧠 Product Builder | 🇮🇳 Entrepreneur
+ Startup Founder | Full-Stack Developer |  Product Builder | 🇮🇳 Entrepreneur
 
 I started working as a developer while I was in Class 11 and have continued building products, systems, and startup-focused solutions ever since.
 
 ---
 
-# 🧠 About Me
+# About Me
 
 I'm a B.Tech graduate and software developer with experience in:
 - Full-stack development
@@ -19,9 +19,9 @@ I focus on execution, rapid product iteration, and solving real-world problems t
 
 ---
 
-# 🚀 Projects & Products
+#  Projects & Products
 
-## 💬 BRDL-AI
+##  BRDL-AI
 A real-time communication platform with chat, voice/video calling, file sharing, and authentication systems.
 
 ---
